@@ -8,17 +8,17 @@ The main purpose of this project is to help developers, DevOps engineers, and cl
 
 This guide covers:
 
-> - Installing Git and VS Code
-> - Configuring Git globally
-> - Connecting GitHub with VS Code
-> - Cloning repositories from GitHub
-> - Pushing local projects to GitHub
-> - Pulling latest changes from remote repositories
-> - Managing branches
-> - Solving common Git errors
-> - Understanding daily Git workflows
-> - Creating professional project structures
-> - Using `.gitignore` properly
+- Installing Git and VS Code
+- Configuring Git globally
+- Connecting GitHub with VS Code
+- Cloning repositories from GitHub
+- Pushing local projects to GitHub
+- Pulling latest changes from remote repositories
+- Managing branches
+- Solving common Git errors
+- Understanding daily Git workflows
+- Creating professional project structures
+- Using `.gitignore` properly
 
 This repository is designed especially for:
 
@@ -32,14 +32,14 @@ This repository is designed especially for:
 
 # ✨ Features
 
-✅ Complete GitHub setup guide
-✅ VS Code integration
-✅ Beginner-friendly explanations
-✅ Git command reference
-✅ Local ↔ Remote repository workflow
-✅ Common Git issue troubleshooting
-✅ Professional README structure
-✅ DevOps project structure examples
+- ✅ Complete GitHub setup guide
+- ✅ VS Code integration
+- ✅ Beginner-friendly explanations
+- ✅ Git command reference
+- ✅ Local ↔ Remote repository workflow
+- ✅ Common Git issue troubleshooting
+- ✅ Professional README structure
+- ✅ DevOps project structure examples
 
 ---
 
