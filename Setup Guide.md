@@ -51,8 +51,8 @@ project/
 Set your Git username and email:
 
 ```bash
-git config --global user.name "Your Name"
-git config --global user.email "your-email@example.com"
+git config --global user.name "Cloud-Tamil"
+git config --global user.email "sktamilvb@gmail.com"
 ```
 
 Check configuration:
